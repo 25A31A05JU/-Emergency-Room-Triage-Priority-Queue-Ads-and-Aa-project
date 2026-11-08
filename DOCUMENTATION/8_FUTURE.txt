@@ -1,0 +1,8 @@
+
+- Develop a graphical user interface for better interaction.
+- Store patient records permanently using a database.
+- Add real-time patient registration and priority updates.
+- Include doctor availability and treatment status.
+- Generate detailed reports on patient waiting times.
+- Extend the system to support multiple emergency departments.
+- Improve the simulation with more realistic hospital scheduling conditions.

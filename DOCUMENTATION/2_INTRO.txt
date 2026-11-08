@@ -1,0 +1,7 @@
+
+
+Emergency departments in hospitals receive patients with different medical conditions and levels of urgency. Treating patients in the correct order is important to ensure that critical patients receive immediate attention. A traditional first-come, first-served queue may not always be suitable for emergency situations because patients with serious conditions may need priority over others.
+
+The **Emergency Room Triage Priority Queue Using Max Heap in C++** is designed to manage patients based on their severity levels and arrival times. The system uses a Max Heap data structure to ensure that the patient with the highest severity is treated first. If two patients have the same severity, the patient who arrived earlier is given priority.
+
+The system provides operations such as patient registration, severity updates, priority-based treatment, and viewing the next patient. It also calculates waiting times and displays the treatment order. This project demonstrates the practical application of heap data structures in solving real-world priority management problems efficiently.

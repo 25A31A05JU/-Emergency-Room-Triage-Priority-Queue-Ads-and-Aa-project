@@ -1,0 +1,15 @@
+Patient Data Collection: Each patient is represented using a structure containing Patient ID, severity, arrival time, and treatment duration.
+
+Priority Management: Patients are organized in a Max Heap based on severity. Patients with higher severity receive higher priority.
+
+Tie-Breaking Mechanism: When two patients have the same severity, the patient who arrived earlier is given priority.
+
+Heap Operations: Custom heap operations such as Insert, Extract-Max, Peek, and Update Severity are implemented to manage patients efficiently.
+
+Index Tracking: An unordered map is used to track patient positions in the heap and support efficient severity updates.
+
+Treatment Simulation: Patient arrivals and treatment durations are simulated to determine the treatment order.
+
+Waiting Time Calculation: The waiting time of each patient is calculated based on their arrival time and treatment start time.
+
+Performance Analysis: The time complexity of heap operations is analyzed and compared with the linear search approach.

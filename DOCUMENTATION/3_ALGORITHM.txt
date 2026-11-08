@@ -1,0 +1,23 @@
+Step 1: Start.
+
+Step 2: Initialize an empty Max Heap to store patient details.
+
+Step 3: Read patient ID, severity, arrival time, and treatment duration.
+
+Step 4: Insert patients into the Max Heap based on severity and arrival time.
+
+Step 5: Apply siftUp() and siftDown() to maintain heap properties.
+
+Step 6: Use Peek to view the highest-priority patient.
+
+Step 7: Use Extract-Max to select the next patient for treatment.
+
+Step 8: Update patient severity whenever required.
+
+Step 9: Calculate waiting time and record treatment order.
+
+Step 10: Display treatment details and waiting times.
+
+Step 11: Repeat until all patients are treated.
+
+Step 12: Stop.
